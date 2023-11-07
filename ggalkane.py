@@ -1,1 +1,1 @@
-print(cusak)
+#napadujsempujcilfuru
